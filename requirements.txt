@@ -1,0 +1,9 @@
+-i https://pypi.python.org/simple
+flask==2.2.3
+flask-jwt-extended==4.4.4
+flask-sqlalchemy==3.0.3 ; python_version >= '3.7'
+marshmallow==3.19.0
+pymysql==1.0.2
+python-dotenv==1.0.0
+sqlalchemy==2.0.5.post1
+werkzeug==2.2.3 ; python_version >= '3.7'
